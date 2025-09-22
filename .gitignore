@@ -1,0 +1,33 @@
+# Java / Spring
+target/
+*.class
+*.log
+*.iml
+.gradle/
+build/
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+.vscode/
+
+# Python
+venv/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+
+# OS / 잡파일
+.DS_Store
+Thumbs.db
+
+# Archives & binaries (LFS 권장)
+*.zip
+*.pptx
+*.ppt
+*.xlsx
+*.mp4
